@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera repository for my peer-graded assignment
+datasciencecoursera repository for my peer-graded assignment.
